@@ -53,3 +53,17 @@
 ## 待整理
 
 还没来得及分类的链接可以先放到 [inbox.md](./inbox.md)，后续再整理到对应分类。
+
+## 网页收录工具
+
+仓库内置了一个轻量 Web 应用，放在 [web/](./web) 目录，用来浏览、搜索和添加 GitHub 项目。
+
+它会把结构化数据写入 [data/projects.json](./data/projects.json)，并同步追加到对应的 Markdown 分类文件。
+
+本地运行：
+
+```bash
+cd web
+npm install
+npm start
+```
