@@ -30,6 +30,7 @@
 ### 主题索引
 
 - [Prompt Engineering](./topics/prompt-engineering.md)
+- [AI 编程与 Agent 工具](./topics/ai-coding-tools.md)
 - [代码质量](./topics/code-quality.md)
 - [系统设计](./topics/system-design.md)
 
@@ -52,4 +53,3 @@
 ## 待整理
 
 还没来得及分类的链接可以先放到 [inbox.md](./inbox.md)，后续再整理到对应分类。
-
